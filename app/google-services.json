@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "789359305069",
+    "firebase_url": "https://newstoday-65e72.firebaseio.com",
+    "project_id": "newstoday-65e72",
+    "storage_bucket": "newstoday-65e72.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:789359305069:android:bc8a8e7cd1cf4cc0",
+        "android_client_info": {
+          "package_name": "com.example.mayankchauhan.nanochat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "789359305069-pm2j4sqsl8ckgasv8or0i2t04mt132hq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mayankchauhan.nanochat",
+            "certificate_hash": "9748FD229DE353A6529B4BC594D00AA7E9E324F1"
+          }
+        },
+        {
+          "client_id": "789359305069-l2bcodnoietrlhbu26v1p4ep27qf6gav.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHtHLJJWo4EdT5c3r8iNprzyULRGp454E"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "789359305069-l2bcodnoietrlhbu26v1p4ep27qf6gav.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
